@@ -1,5 +1,5 @@
 {
-  "name": "currencyConversion",
+  "name": "Currency Conversion",
   "version": "1.0.0",
   "description": "API para conversão monetária.",
   "main": "index.js",
