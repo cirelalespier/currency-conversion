@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cirelalespier/currencyConversion.git"
+    "url": "git+https://github.com/cirelalespier/currency-conversion.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cirelalespier/currencyConversion/issues"
+    "url": "https://github.com/cirelalespier/currency-conversion/issues"
   },
-  "homepage": "https://github.com/cirelalespier/currencyConversion#readme",
+  "homepage": "https://github.com/cirelalespier/currency-conversion#readme",
   "dependencies": {
     "@types/express": "^4.17.8",
     "@types/mongoose": "^5.7.36",
